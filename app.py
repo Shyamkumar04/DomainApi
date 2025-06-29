@@ -468,39 +468,48 @@ def check_domain():
 # -------------------------- INSTRA SCRAPER -------------------------- #
 
 def extract_domain_statuses(html_content):
+    import re
+
     pattern = re.compile(
-        r"document\.getElementById\('response_(.*?)'\)\.innerHTML\s*=\s*'.*?>(Available|Unavailable)</a>'",
-        re.DOTALL
+        r"document\.getElementById\('response_(.*?)'\)\.innerHTML\s*=\s*.*?>(Available|Unavailable)",
+        re.IGNORECASE | re.DOTALL
     )
     matches = pattern.findall(html_content)
 
     domain_status = {}
-    for raw_domain, status in matches:
-        domain = raw_domain.strip()
 
-        # Skip JS noise or malformed
-        if ')' in domain or ';' in domain:
-            continue
-        if domain.endswith('_mobile'):
-            domain = domain.replace('_mobile', '')
+    for raw_key, status in matches:
+        domain = raw_key.strip()
 
-        domain_status[domain] = status.strip()
+        # 🧼 Step 1: Remove _mobile suffix
+        domain = domain.replace("_mobile", "")
 
+        # 🧼 Step 2: Remove any JS-style injection like ').style.color = ...
+        domain = re.sub(r"\)\.style\.color.*", "", domain)
+        domain = re.sub(r"document\.getElementById\(.*", "", domain)
+
+        # 🧼 Step 3: Final cleanup
+        domain = domain.replace("'", "").replace(";", "").strip()
+
+        if domain:  # ensure non-empty
+            domain_status[domain] = status.strip().capitalize()
+
+    # 🎯 Final formatting with pricing if available
     results = []
     for domain, status in domain_status.items():
         tld = "." + domain.split('.')[-1].lower()
-        result = {
+        item = {
             "domain": domain,
             "status": status
         }
         if tld in TLD_PRICES:
-            result["price"] = {
+            item["price"] = {
                 "registration": TLD_PRICES[tld]["registration"],
                 "renewal": TLD_PRICES[tld]["renewal"]
             }
-        results.append(result)
-    return results
+        results.append(item)
 
+    return results
 
 @app.route('/api/instra-domain-check', methods=['POST'])
 def instra_domain_check():
