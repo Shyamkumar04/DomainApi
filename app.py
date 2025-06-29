@@ -110,22 +110,19 @@ def check_domain():
 # -------------------------- INSTRA SCRAPER -------------------------- #
 
 def extract_domain_statuses(html_content):
+    # Extract lines where JavaScript injects domain availability
     pattern = re.compile(
-        r"document\.getElementById\('response_(.*?)'\)\.innerHTML\s*=\s*'.*?>(Available|Unavailable)</a>'",
+        r"document\.getElementById\('response_(.*?)'\)\.innerHTML\s*=\s*'[^>]*>(.*?)</a>'",
         re.DOTALL
     )
     matches = pattern.findall(html_content)
 
-    domain_status = {}
-    for raw_domain, status in matches:
-        domain = raw_domain.strip()
-        if ')' in domain or ';' in domain:
-            continue
-        if domain.endswith('_mobile'):
-            domain = domain.replace('_mobile', '')
-        domain_status[domain] = status.strip()
-
-    return [{'domain': d, 'status': s} for d, s in domain_status.items()]
+    result = []
+    for domain, status in matches:
+        domain = domain.strip()
+        status_clean = 'Available' if 'Available' in status else 'Unavailable'
+        result.append({'domain': domain, 'status': status_clean})
+    return result
 
 @app.route('/api/instra-domain-check', methods=['POST'])
 def instra_domain_check():
