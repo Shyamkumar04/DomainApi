@@ -1,0 +1,1732 @@
+[
+    {
+        "TLD": ".org.uk",
+        "Registration Fees": "4.94",
+        "Renewal Fees": "4.94"
+    },
+    {
+        "TLD": ".uk",
+        "Registration Fees": "4.94",
+        "Renewal Fees": "4.94"
+    },
+    {
+        "TLD": ".me.uk",
+        "Registration Fees": "4.94",
+        "Renewal Fees": "4.94"
+    },
+    {
+        "TLD": ".co.uk",
+        "Registration Fees": "4.94",
+        "Renewal Fees": "4.94"
+    },
+    {
+        "TLD": ".date",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".trade",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".party",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".bid",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".stream",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".win",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".download",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".loan",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".men",
+        "Registration Fees": "4.16",
+        "Renewal Fees": "5.16"
+    },
+    {
+        "TLD": ".fyi",
+        "Registration Fees": "5.18",
+        "Renewal Fees": "5.18"
+    },
+    {
+        "TLD": ".us",
+        "Registration Fees": "6.5",
+        "Renewal Fees": "6.5"
+    },
+    {
+        "TLD": ".work",
+        "Registration Fees": "7.18",
+        "Renewal Fees": "7.18"
+    },
+    {
+        "TLD": ".rodeo",
+        "Registration Fees": "7.18",
+        "Renewal Fees": "7.18"
+    },
+    {
+        "TLD": ".casa",
+        "Registration Fees": "7.68",
+        "Renewal Fees": "7.68"
+    },
+    {
+        "TLD": ".nom.co",
+        "Registration Fees": "8",
+        "Renewal Fees": "8"
+    },
+    {
+        "TLD": ".net.co",
+        "Registration Fees": "8",
+        "Renewal Fees": "8"
+    },
+    {
+        "TLD": ".cc",
+        "Registration Fees": "8",
+        "Renewal Fees": "8"
+    },
+    {
+        "TLD": ".com.co",
+        "Registration Fees": "8",
+        "Renewal Fees": "8"
+    },
+    {
+        "TLD": ".contact",
+        "Registration Fees": "9.18",
+        "Renewal Fees": "9.18"
+    },
+    {
+        "TLD": ".pictures",
+        "Registration Fees": "9.18",
+        "Renewal Fees": "9.18"
+    },
+    {
+        "TLD": ".futbol",
+        "Registration Fees": "9.18",
+        "Renewal Fees": "9.18"
+    },
+    {
+        "TLD": ".observer",
+        "Registration Fees": "9.18",
+        "Renewal Fees": "9.18"
+    },
+    {
+        "TLD": ".business",
+        "Registration Fees": "9.18",
+        "Renewal Fees": "9.18"
+    },
+    {
+        "TLD": ".com",
+        "Registration Fees": "9.77",
+        "Renewal Fees": "9.77"
+    },
+    {
+        "TLD": ".org",
+        "Registration Fees": "7.5",
+        "Renewal Fees": "10.11"
+    },
+    {
+        "TLD": ".review",
+        "Registration Fees": "10.16",
+        "Renewal Fees": "10.16"
+    },
+    {
+        "TLD": ".science",
+        "Registration Fees": "10.16",
+        "Renewal Fees": "10.16"
+    },
+    {
+        "TLD": ".faith",
+        "Registration Fees": "10.16",
+        "Renewal Fees": "10.16"
+    },
+    {
+        "TLD": ".racing",
+        "Registration Fees": "10.16",
+        "Renewal Fees": "10.16"
+    },
+    {
+        "TLD": ".webcam",
+        "Registration Fees": "10.16",
+        "Renewal Fees": "10.16"
+    },
+    {
+        "TLD": ".xyz",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".company",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".mov",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".nexus",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".foo",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".boston",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".dad",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".day",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".rsvp",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".page",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".boo",
+        "Registration Fees": "10.18",
+        "Renewal Fees": "10.18"
+    },
+    {
+        "TLD": ".markets",
+        "Registration Fees": "11.18",
+        "Renewal Fees": "11.18"
+    },
+    {
+        "TLD": ".net",
+        "Registration Fees": "11.84",
+        "Renewal Fees": "11.84"
+    },
+    {
+        "TLD": ".dev",
+        "Registration Fees": "12.18",
+        "Renewal Fees": "12.18"
+    },
+    {
+        "TLD": ".miami",
+        "Registration Fees": "12.18",
+        "Renewal Fees": "12.18"
+    },
+    {
+        "TLD": ".club",
+        "Registration Fees": "12.18",
+        "Renewal Fees": "12.18"
+    },
+    {
+        "TLD": ".vip",
+        "Registration Fees": "12.18",
+        "Renewal Fees": "12.18"
+    },
+    {
+        "TLD": ".trading",
+        "Registration Fees": "13.18",
+        "Renewal Fees": "13.18"
+    },
+    {
+        "TLD": ".rocks",
+        "Registration Fees": "13.18",
+        "Renewal Fees": "13.18"
+    },
+    {
+        "TLD": ".jetzt",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".app",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".group",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".irish",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".gratis",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".place",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".reisen",
+        "Registration Fees": "14.18",
+        "Renewal Fees": "14.18"
+    },
+    {
+        "TLD": ".luxe",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".kim",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".pink",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".cloud",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".rip",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".red",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".blue",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".biz",
+        "Registration Fees": "15.18",
+        "Renewal Fees": "15.18"
+    },
+    {
+        "TLD": ".management",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".equipment",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".soccer",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".promo",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".report",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".pet",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".schule",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".supply",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".supplies",
+        "Registration Fees": "16.18",
+        "Renewal Fees": "16.18"
+    },
+    {
+        "TLD": ".center",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".gallery",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".football",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".photos",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".graphics",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".bet",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".lighting",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".run",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".directory",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".city",
+        "Registration Fees": "17.18",
+        "Renewal Fees": "17.18"
+    },
+    {
+        "TLD": ".pro",
+        "Registration Fees": "17.68",
+        "Renewal Fees": "17.68"
+    },
+    {
+        "TLD": ".info",
+        "Registration Fees": "17.68",
+        "Renewal Fees": "17.68"
+    },
+    {
+        "TLD": ".today",
+        "Registration Fees": "18.18",
+        "Renewal Fees": "18.18"
+    },
+    {
+        "TLD": ".soy",
+        "Registration Fees": "18.18",
+        "Renewal Fees": "18.18"
+    },
+    {
+        "TLD": ".dance",
+        "Registration Fees": "18.18",
+        "Renewal Fees": "18.18"
+    },
+    {
+        "TLD": ".agency",
+        "Registration Fees": "18.18",
+        "Renewal Fees": "18.18"
+    },
+    {
+        "TLD": ".institute",
+        "Registration Fees": "18.18",
+        "Renewal Fees": "18.18"
+    },
+    {
+        "TLD": ".support",
+        "Registration Fees": "18.18",
+        "Renewal Fees": "18.18"
+    },
+    {
+        "TLD": ".wiki",
+        "Registration Fees": "19.18",
+        "Renewal Fees": "19.18"
+    },
+    {
+        "TLD": ".ltd",
+        "Registration Fees": "19.18",
+        "Renewal Fees": "19.18"
+    },
+    {
+        "TLD": ".ink",
+        "Registration Fees": "19.18",
+        "Renewal Fees": "19.18"
+    },
+    {
+        "TLD": ".email",
+        "Registration Fees": "19.18",
+        "Renewal Fees": "19.18"
+    },
+    {
+        "TLD": ".accountant",
+        "Registration Fees": "20.16",
+        "Renewal Fees": "20.16"
+    },
+    {
+        "TLD": ".cricket",
+        "Registration Fees": "20.16",
+        "Renewal Fees": "20.16"
+    },
+    {
+        "TLD": ".technology",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".love",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".prof",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".phd",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".blog",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".games",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".international",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".band",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".esq",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".solutions",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".space",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".how",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".website",
+        "Registration Fees": "20.18",
+        "Renewal Fees": "20.18"
+    },
+    {
+        "TLD": ".news",
+        "Registration Fees": "21.18",
+        "Renewal Fees": "21.18"
+    },
+    {
+        "TLD": ".ninja",
+        "Registration Fees": "21.18",
+        "Renewal Fees": "21.18"
+    },
+    {
+        "TLD": ".live",
+        "Registration Fees": "21.18",
+        "Renewal Fees": "21.18"
+    },
+    {
+        "TLD": ".systems",
+        "Registration Fees": "21.18",
+        "Renewal Fees": "21.18"
+    },
+    {
+        "TLD": ".tips",
+        "Registration Fees": "21.18",
+        "Renewal Fees": "21.18"
+    },
+    {
+        "TLD": ".network",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".gives",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".immo",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".foundation",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".immobilien",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".education",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".discount",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".gripe",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".sarl",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".haus",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".moda",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".cab",
+        "Registration Fees": "21.68",
+        "Renewal Fees": "21.68"
+    },
+    {
+        "TLD": ".yoga",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".garden",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".beer",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".mobi",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".wedding",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".horse",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".fishing",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".compare",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".broker",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".select",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".cooking",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".fashion",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".surf",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".vodka",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".fit",
+        "Registration Fees": "22.18",
+        "Renewal Fees": "22.18"
+    },
+    {
+        "TLD": ".cheap",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".limited",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".wtf",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".auction",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".contractors",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".team",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".kaufen",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".cash",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".singles",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".democrat",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".clothing",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".tools",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".forsale",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".shopping",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".boutique",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".town",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".florist",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".gifts",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".photography",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".bargains",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".family",
+        "Registration Fees": "23.18",
+        "Renewal Fees": "23.18"
+    },
+    {
+        "TLD": ".co",
+        "Registration Fees": "24",
+        "Renewal Fees": "24"
+    },
+    {
+        "TLD": ".life",
+        "Registration Fees": "24.18",
+        "Renewal Fees": "24.18"
+    },
+    {
+        "TLD": ".studio",
+        "Registration Fees": "24.18",
+        "Renewal Fees": "24.18"
+    },
+    {
+        "TLD": ".tv",
+        "Registration Fees": "25",
+        "Renewal Fees": "25"
+    },
+    {
+        "TLD": ".mba",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".properties",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".world",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".pub",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".rehab",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".style",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".training",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".money",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".productions",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".sale",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".rentals",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".school",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".vision",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".rest",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".services",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".works",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".plus",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".online",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".parts",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".site",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".social",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".video",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".vacations",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".software",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".repair",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".republican",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".academy",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".zone",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".builders",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".fitness",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".gmbh",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".farm",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".fail",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".guide",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".express",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".exchange",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".events",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".estate",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".enterprises",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".engineer",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".direct",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".deals",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".fun",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".cool",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".cards",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".catering",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".chat",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".bike",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".community",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".computer",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".coffee",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".construction",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".land",
+        "Registration Fees": "25.18",
+        "Renewal Fees": "25.18"
+    },
+    {
+        "TLD": ".associates",
+        "Registration Fees": "26.18",
+        "Renewal Fees": "26.18"
+    },
+    {
+        "TLD": ".guru",
+        "Registration Fees": "27.18",
+        "Renewal Fees": "27.18"
+    },
+    {
+        "TLD": ".care",
+        "Registration Fees": "27.18",
+        "Renewal Fees": "27.18"
+    },
+    {
+        "TLD": ".vet",
+        "Registration Fees": "27.18",
+        "Renewal Fees": "27.18"
+    },
+    {
+        "TLD": ".digital",
+        "Registration Fees": "27.18",
+        "Renewal Fees": "27.18"
+    },
+    {
+        "TLD": ".domains",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".watch",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".church",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".marketing",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".show",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".fish",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".cafe",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".market",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".industries",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".house",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".media",
+        "Registration Fees": "28.18",
+        "Renewal Fees": "28.18"
+    },
+    {
+        "TLD": ".actor",
+        "Registration Fees": "29.18",
+        "Renewal Fees": "29.18"
+    },
+    {
+        "TLD": ".consulting",
+        "Registration Fees": "30.18",
+        "Renewal Fees": "30.18"
+    },
+    {
+        "TLD": ".forex",
+        "Registration Fees": "30.18",
+        "Renewal Fees": "30.18"
+    },
+    {
+        "TLD": ".degree",
+        "Registration Fees": "32.18",
+        "Renewal Fees": "32.18"
+    },
+    {
+        "TLD": ".viajes",
+        "Registration Fees": "35.18",
+        "Renewal Fees": "35.18"
+    },
+    {
+        "TLD": ".memorial",
+        "Registration Fees": "35.68",
+        "Renewal Fees": "35.68"
+    },
+    {
+        "TLD": ".villas",
+        "Registration Fees": "35.68",
+        "Renewal Fees": "35.68"
+    },
+    {
+        "TLD": ".surgery",
+        "Registration Fees": "35.68",
+        "Renewal Fees": "35.68"
+    },
+    {
+        "TLD": ".plumbing",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".bingo",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".voyage",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".diamonds",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".maison",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".wine",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".cruises",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".lease",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".camp",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".coupons",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".hockey",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".delivery",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".condos",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".flights",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".limo",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".financial",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".ventures",
+        "Registration Fees": "38.18",
+        "Renewal Fees": "38.18"
+    },
+    {
+        "TLD": ".reviews",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".attorney",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".dentist",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".design",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".apartments",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".camera",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".lawyer",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".university",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".solar",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".tech",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".store",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".mortgage",
+        "Registration Fees": "40.18",
+        "Renewal Fees": "40.18"
+    },
+    {
+        "TLD": ".theater",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".kitchen",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".dog",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".insure",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".glass",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".finance",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".vin",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".toys",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".restaurant",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".shoes",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".tours",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".holiday",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".hospital",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".salon",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".tienda",
+        "Registration Fees": "41.18",
+        "Renewal Fees": "41.18"
+    },
+    {
+        "TLD": ".cleaning",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".clinic",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".taxi",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".coach",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".codes",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".fund",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".expert",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".jewelry",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".golf",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".dating",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".holdings",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".pizza",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".recipes",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".engineering",
+        "Registration Fees": "42.18",
+        "Renewal Fees": "42.18"
+    },
+    {
+        "TLD": ".black",
+        "Registration Fees": "42.68",
+        "Renewal Fees": "42.68"
+    },
+    {
+        "TLD": ".tennis",
+        "Registration Fees": "43.18",
+        "Renewal Fees": "43.18"
+    },
+    {
+        "TLD": ".lgbt",
+        "Registration Fees": "43.18",
+        "Renewal Fees": "43.18"
+    },
+    {
+        "TLD": ".io",
+        "Registration Fees": "45",
+        "Renewal Fees": "45"
+    },
+    {
+        "TLD": ".legal",
+        "Registration Fees": "45.18",
+        "Renewal Fees": "45.18"
+    },
+    {
+        "TLD": ".dental",
+        "Registration Fees": "45.18",
+        "Renewal Fees": "45.18"
+    },
+    {
+        "TLD": ".rent",
+        "Registration Fees": "45.18",
+        "Renewal Fees": "45.18"
+    },
+    {
+        "TLD": ".college",
+        "Registration Fees": "45.18",
+        "Renewal Fees": "45.18"
+    },
+    {
+        "TLD": ".partners",
+        "Registration Fees": "46.18",
+        "Renewal Fees": "46.18"
+    },
+    {
+        "TLD": ".careers",
+        "Registration Fees": "46.18",
+        "Renewal Fees": "46.18"
+    },
+    {
+        "TLD": ".tax",
+        "Registration Fees": "46.18",
+        "Renewal Fees": "46.18"
+    },
+    {
+        "TLD": ".capital",
+        "Registration Fees": "46.18",
+        "Renewal Fees": "46.18"
+    },
+    {
+        "TLD": ".claims",
+        "Registration Fees": "46.18",
+        "Renewal Fees": "46.18"
+    },
+    {
+        "TLD": ".healthcare",
+        "Registration Fees": "46.18",
+        "Renewal Fees": "46.18"
+    },
+    {
+        "TLD": ".press",
+        "Registration Fees": "49.18",
+        "Renewal Fees": "49.18"
+    },
+    {
+        "TLD": ".bar",
+        "Registration Fees": "50.18",
+        "Renewal Fees": "50.18"
+    },
+    {
+        "TLD": ".health",
+        "Registration Fees": "50.18",
+        "Renewal Fees": "50.18"
+    },
+    {
+        "TLD": ".fans",
+        "Registration Fees": "50.18",
+        "Renewal Fees": "50.18"
+    },
+    {
+        "TLD": ".green",
+        "Registration Fees": "52.68",
+        "Renewal Fees": "52.68"
+    },
+    {
+        "TLD": ".host",
+        "Registration Fees": "65.18",
+        "Renewal Fees": "65.18"
+    },
+    {
+        "TLD": ".reise",
+        "Registration Fees": "66.18",
+        "Renewal Fees": "66.18"
+    },
+    {
+        "TLD": ".ceo",
+        "Registration Fees": "70.18",
+        "Renewal Fees": "70.18"
+    },
+    {
+        "TLD": ".tires",
+        "Registration Fees": "70.18",
+        "Renewal Fees": "70.18"
+    },
+    {
+        "TLD": ".gold",
+        "Registration Fees": "75.18",
+        "Renewal Fees": "75.18"
+    },
+    {
+        "TLD": ".energy",
+        "Registration Fees": "75.18",
+        "Renewal Fees": "75.18"
+    },
+    {
+        "TLD": ".accountants",
+        "Registration Fees": "75.18",
+        "Renewal Fees": "75.18"
+    },
+    {
+        "TLD": ".loans",
+        "Registration Fees": "75.18",
+        "Renewal Fees": "75.18"
+    },
+    {
+        "TLD": ".credit",
+        "Registration Fees": "75.18",
+        "Renewal Fees": "75.18"
+    },
+    {
+        "TLD": ".investments",
+        "Registration Fees": "80.18",
+        "Renewal Fees": "80.18"
+    },
+    {
+        "TLD": ".doctor",
+        "Registration Fees": "80.18",
+        "Renewal Fees": "80.18"
+    },
+    {
+        "TLD": ".furniture",
+        "Registration Fees": "80.18",
+        "Renewal Fees": "80.18"
+    },
+    {
+        "TLD": ".fm",
+        "Registration Fees": "85",
+        "Renewal Fees": "85"
+    },
+    {
+        "TLD": ".casino",
+        "Registration Fees": "110.18",
+        "Renewal Fees": "110.18"
+    },
+    {
+        "TLD": ".creditcard",
+        "Registration Fees": "125.18",
+        "Renewal Fees": "125.18"
+    },
+    {
+        "TLD": ".movie",
+        "Registration Fees": "215.18",
+        "Renewal Fees": "215.18"
+    },
+    {
+        "TLD": ".realty",
+        "Registration Fees": "280.18",
+        "Renewal Fees": "280.18"
+    },
+    {
+        "TLD": ".new",
+        "Registration Fees": "400.18",
+        "Renewal Fees": "400.18"
+    },
+    {
+        "TLD": ".theatre",
+        "Registration Fees": "500.18",
+        "Renewal Fees": "500.18"
+    },
+    {
+        "TLD": ".storage",
+        "Registration Fees": "500.18",
+        "Renewal Fees": "500.18"
+    },
+    {
+        "TLD": ".security",
+        "Registration Fees": "2000.18",
+        "Renewal Fees": "2000.18"
+    }
+]
